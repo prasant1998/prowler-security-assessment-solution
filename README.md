@@ -121,10 +121,3 @@ To remove the security assessment solution from your account, follow these steps
 ## References
 
 - https://github.com/awslabs/aws-security-assessment-solution?tab=readme-ov-file
-- https://github.com/prowler-cloud/prowler
-- https://docs.aws.amazon.com/codebuild/latest/userguide/what-is-codebuild.html
-- https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
-- https://docs.aws.amazon.com/cloudformation/latest/userguide/what-is-cloudformation.html
-- https://docs.aws.amazon.com/s3/index.html
-- https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
-- https://docs.aws.amazon.com/codebuild/latest/userguide/what-is-codebuild.html
